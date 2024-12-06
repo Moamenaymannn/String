@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1733384453 source:/home/moamen/Desktop/Day-1_c++/String/string/main.cpp
+	<iostream>
+	<cstring>
+	"string.h"
+
+1733383521 /home/moamen/Desktop/Day-1_c++/String/string/string.h
+	<iostream>
+
